@@ -1,0 +1,15 @@
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\bin\Debug\netcoreapp2.1\JWTwithNeo4j.deps.json
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\bin\Debug\netcoreapp2.1\JWTwithNeo4j.runtimeconfig.json
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\bin\Debug\netcoreapp2.1\JWTwithNeo4j.runtimeconfig.dev.json
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\bin\Debug\netcoreapp2.1\JWTwithNeo4j.dll
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.csprojAssemblyReference.cache
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.csproj.CoreCompileInputs.cache
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.RazorAssemblyInfo.cache
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.RazorAssemblyInfo.cs
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.AssemblyInfoInputs.cache
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.AssemblyInfo.cs
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.RazorTargetAssemblyInfo.cache
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\bin\Debug\netcoreapp2.1\JWTwithNeo4j.pdb
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.dll
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\obj\Debug\netcoreapp2.1\JWTwithNeo4j.pdb
+C:\Users\achou\source\repos\JWTwithNeo4j\JWTwithNeo4j\bin\Debug\netcoreapp2.1\JWTwithNeo4j.xml
